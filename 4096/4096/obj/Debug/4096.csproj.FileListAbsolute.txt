@@ -1,0 +1,10 @@
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\4096\4096\bin\Debug\4096.exe.config
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\4096\4096\bin\Debug\4096.exe
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\4096\4096\bin\Debug\4096.pdb
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\4096\4096\obj\Debug\4096.csproj.AssemblyReference.cache
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\4096\4096\obj\Debug\_4096.Form1.resources
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\4096\4096\obj\Debug\_4096.Properties.Resources.resources
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\4096\4096\obj\Debug\4096.csproj.GenerateResource.cache
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\4096\4096\obj\Debug\4096.csproj.CoreCompileInputs.cache
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\4096\4096\obj\Debug\4096.exe
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\4096\4096\obj\Debug\4096.pdb
